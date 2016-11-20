@@ -28,8 +28,11 @@
 # url: http://julymars.github.io
 # baseurl: /blog/
 
-url: https://julymars.github.io
-baseurl: /blog
+# url: https://julymars.github.io
+# baseurl: /blog
+
+url: https://julymars.github.io/blog
+baseurl: /
 
 # url: http://julymars.github.io/blog/
 # baseurl: /blog/
