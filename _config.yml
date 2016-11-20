@@ -19,8 +19,11 @@
 # url: http://julymars.github.io
 # baseurl: /blog
 
+# url: 
+# baseurl: /blog
+
 url: 
-baseurl: /blog
+baseurl: /blog/
 
 # url: http://julymars.github.io/blog/
 # baseurl: /blog/
