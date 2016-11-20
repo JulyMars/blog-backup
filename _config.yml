@@ -1,8 +1,27 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
+# url: http://julymars.github.io/blog/
+# baseurl: /blog/
+
 url: http://julymars.github.io/blog/
-baseurl: /blog/
+baseurl: /
+
+# url: http://julymars.github.io/blog/
+# baseurl: /blog/
+
+# url: http://julymars.github.io/blog/
+# baseurl: /blog/
+
+# url: http://julymars.github.io/blog/
+# baseurl: /blog/
+
+# url: http://julymars.github.io/blog/
+# baseurl: /blog/
+
+# url: http://julymars.github.io/blog/
+# baseurl: /blog/
+
 date_format: "ordinal"
 title: Wang
 subtitle: "HelloWorld"
