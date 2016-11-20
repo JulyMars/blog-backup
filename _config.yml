@@ -4,11 +4,11 @@
 # url: http://julymars.github.io/blog/
 # baseurl: /blog/
 
+# url: http://julymars.github.io/blog/
+# baseurl: /
+
 url: http://julymars.github.io/blog/
 baseurl: /
-
-# url: http://julymars.github.io/blog/
-# baseurl: /blog/
 
 # url: http://julymars.github.io/blog/
 # baseurl: /blog/
@@ -96,7 +96,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: blog/julymars.github.io
+repository: julymars.github.io/blog
 
 # ---------------- #
 #      Socials     #
