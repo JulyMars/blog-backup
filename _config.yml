@@ -47,6 +47,7 @@
 
 url: https://julymars.github.io
 baseurl: https://julymars.github.io/blog/
+production_url : http://yuxiaole.github.io/jekyll
 
 # url: http://julymars.github.io/blog/
 # baseurl: /blog/
