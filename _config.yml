@@ -45,9 +45,9 @@
 # url: 
 # baseurl: https://julymars.github.io/blog/
 
-url: https://julymars.github.io
+# url: https://julymars.github.io
 production_url : http://julymars.github.io/blog/
-baseurl: /blog
+# baseurl: /blog
 
 # url: http://julymars.github.io/blog/
 # baseurl: /blog/
