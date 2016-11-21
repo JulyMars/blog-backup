@@ -1,8 +1,10 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: /blog/
-url: http://julymars.github.io
+
+url: "https://julymars.github.io/blog/"
+baseurl: "https://julymars.github.io/blog/"
+
 date_format: "ordinal"
 title: Wang
 subtitle: "HelloWorld"
