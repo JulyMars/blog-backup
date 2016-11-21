@@ -2,7 +2,10 @@
 #   Main Configs   #
 # ---------------- #
 
-url: "https://julymars.github.io/blog/"
+# url: "https://julymars.github.io/blog/"
+# baseurl: "https://julymars.github.io/blog/"
+
+url: 
 baseurl: "https://julymars.github.io/blog/"
 
 date_format: "ordinal"
