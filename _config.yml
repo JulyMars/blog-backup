@@ -9,8 +9,8 @@ url:
 baseurl: /blog
 
 date_format: "ordinal"
-title: Wang
-subtitle: "HelloWorld"
+title: Wang.
+subtitle: "HelloWorld."
 description: "personal blog"
 keywords: practice
 favicon: /favicon.ico
