@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/posts/index.css">
     <!-- Latest compiled and minified CSS -->
     {% for css in page.css %}
-    <link rel="stylesheet" href="/assets/css/{{css}}">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{css}}">
     {% endfor %}
 
     {% if site.ios_app_name %}
@@ -66,8 +66,8 @@
     {% if page.date %}
     <meta property="article:published_time" content="{{ page.date | date: '%Y-%m-%d' }}">
     {% endif %}
-    <script src="/assets/vendor/jquery/dist/jquery.min.js"></script>
-    <script src="/assets/js/jquery-ui.js"></script>
+    <script src="{{ site.baseurl }}/assets/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/jquery-ui.js"></script>
     <script type="text/javascript">
     function toggleMenu() {
         var nav = document.getElementsByClassName("site-header-nav")[0];
