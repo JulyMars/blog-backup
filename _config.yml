@@ -6,7 +6,7 @@
 # baseurl: "https://julymars.github.io/blog/"
 
 url: 
-baseurl: "https://julymars.github.io/blog/"
+baseurl: /blog
 
 date_format: "ordinal"
 title: Wang
